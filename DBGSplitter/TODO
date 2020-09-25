@@ -1,0 +1,22 @@
+TODO BEFORE GOING:
+1/ Add -output parameter
+    -Split output into one folder for each step
+    -Done, to test;
+    -To finish: step 4;
+
+1.5/ Add beta historic
+    -Done, to test;
+
+2/ finish step 3
+    -TODO
+    -4nodescompression by default
+    -unit test (step1/3)
+
+
+
+TODO meeting 20/09/18:
+2 steps : 1 output gene graphs
+benchmark beta at least against branching concentration
+send clustering papers
+repeated kmers = problematic for assembly , but biological repeats is not everything
+where the combinatorial explosion comes from in the graph compression?

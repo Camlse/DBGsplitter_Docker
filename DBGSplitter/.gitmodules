@@ -1,0 +1,6 @@
+[submodule "whereami"]
+	path = whereami
+	url = https://github.com/gpakosz/whereami.git
+[submodule "pstreams"]
+	path = pstreams
+	url = https://github.com/jwakely/pstreams.git/

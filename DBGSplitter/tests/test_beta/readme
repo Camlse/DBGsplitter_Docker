@@ -1,0 +1,17 @@
+executing:
+echo "../tests/test_beta/test.fa" > srBeta
+tools/DBGSplitter -sr srBeta -rel_cutoff 0 -min_abundance 0
+
+expected results:
+inBeta(0): 1
+inBeta(1): 4
+inBeta(2): 9
+outBeta(0): 1
+outBeta(1): 2
+outBeta(2): 4
+outBeta(3): 3
+
+inBetaMax: 6
+outBetaMax: 4
+
+beta: 6
